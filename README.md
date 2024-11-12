@@ -1,1 +1,3 @@
 # Global-Calculators
+✅ Python
+✅ Javascript
